@@ -1,0 +1,7 @@
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\bin\Debug\NUnitDemoConsole.exe.config
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\bin\Debug\NUnitDemoConsole.exe
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\bin\Debug\NUnitDemoConsole.pdb
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\obj\Debug\NUnitDemoConsole.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\obj\Debug\NUnitDemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\obj\Debug\NUnitDemoConsole.exe
+C:\Users\Shubham\source\repos\NUnitDemo\NUnitDemoConsole\obj\Debug\NUnitDemoConsole.pdb
